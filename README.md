@@ -80,54 +80,57 @@ User flow diagram representing the hospital appointment booking process.
 
 ---
 
-# 5. Information Architecture
+# 5. Information Architecture (IA)
 
-### Example System
-University Website
+### System
+Hospital Appointment Booking Mobile Application
 
-### Card Sorting Categories
+### Card Sorting Result
 
-**Academics**
-- Courses
-- Departments
-- Faculty
+After organizing features based on user mental models, the following categories were created:
 
-**Admissions**
-- Apply
-- Eligibility
-- Fees
+**Appointments**
+- Book Appointment  
+- View Appointments  
+- Cancel Appointment  
 
-**Student Life**
-- Clubs
-- Events
-- Hostel
+**Doctors**
+- Doctor List  
+- Specializations  
+- Doctor Profiles  
 
-**Resources**
-- Library
-- Labs
-- Research
+**Health Records**
+- Medical History  
+- Prescriptions  
+- Test Reports  
 
+**Account**
+- Profile  
+- Notifications  
+- Settings  
+
+---
 ### Site Map Structure
+Home
+├── Appointments
+│ ├── Book Appointment
+│ ├── View Appointments
+│ └── Cancel Appointment
 
-Home  
-├── About  
-├── Admissions  
-│   ├── Apply  
-│   ├── Eligibility  
-│   └── Fees  
-├── Academics  
-│   ├── Courses  
-│   ├── Departments  
-│   └── Faculty  
-├── Student Life  
-│   ├── Clubs  
-│   ├── Events  
-│   └── Hostel  
-└── Resources  
-    ├── Library  
-    ├── Labs  
-    └── Research  
+├── Doctors
+│ ├── Doctor List
+│ ├── Specializations
+│ └── Doctor Profiles
 
+├── Health Records
+│ ├── Medical History
+│ ├── Prescriptions
+│ └── Test Reports
+
+└── Account
+├── Profile
+├── Notifications
+└── Settings
 ---
 
 # Result
