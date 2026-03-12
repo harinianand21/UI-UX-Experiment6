@@ -111,26 +111,8 @@ After organizing features based on user mental models, the following categories 
 
 ---
 ### Site Map Structure
-Home
-├── Appointments
-│ ├── Book Appointment
-│ ├── View Appointments
-│ └── Cancel Appointment
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6935fe99-b2e0-44b8-bae4-a84eb3405336" />
 
-├── Doctors
-│ ├── Doctor List
-│ ├── Specializations
-│ └── Doctor Profiles
-
-├── Health Records
-│ ├── Medical History
-│ ├── Prescriptions
-│ └── Test Reports
-
-└── Account
-├── Profile
-├── Notifications
-└── Settings
 ---
 
 # Result
