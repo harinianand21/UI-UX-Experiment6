@@ -77,6 +77,12 @@ Start → Open Hospital App → Search Doctor → View Doctor List → Select Do
 User flow diagram representing the hospital appointment booking process.
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/fc4a271b-ce7d-4479-822c-cc476a391465" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/9d093804-c984-481c-95e0-1d64aad54b29" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/f58738f5-8f1b-464f-a277-89382be812c5" />
+<img width="1915" height="905" alt="image" src="https://github.com/user-attachments/assets/0509ed25-be55-4a07-acaa-4ddef65b0d3f" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/b23a3f51-a8dc-4962-b875-f1ce1d5e4502" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/1fb14fa4-9d55-4034-850b-051618e957ef" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/dd542377-add8-4035-9c8a-10c9616467ef" />
 
 ---
 
